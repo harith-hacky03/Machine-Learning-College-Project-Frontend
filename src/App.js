@@ -30,7 +30,7 @@ const App = () => {
           <input type="file" id="fileInput" name="filename" className='rounded-lg border-2 content border-white px-3 py-1 text-white bg-transparent'/>
           <input type="submit" value="Upload" className='mt-2 content bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'/>
         </form>
-        <p className='text-white content mt-10 w-[70%] text-center'>*Upload the image to predict whether the user is drowsy or not</p>
+        <p className='text-white content mt-10 w-[70%] text-center'>*Upload the image to predict whether the driver is drowsy or not</p>
       </div>
     </div>
   );
